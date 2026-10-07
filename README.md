@@ -18,6 +18,7 @@ My research integrates UAV/drone remote sensing, spatio-temporal statistics, and
 | Repository | Description |
 |---|---|
 | [`geofly-serpent-mound`](https://github.com/gis-yang/geofly-serpent-mound) | High-resolution UAV mapping products (orthomosaic, DSM) of the Great Serpent Mound, Adams County, Ohio |
+| [`geofly-sjsu-stadium`](https://github.com/gis-yang/geofly-sjsu-stadium) | High-resolution UAV mapping products (2D orthomosaic, 3D mesh/point cloud) of CEFCU Stadium, San José State University |
 | [`DroneMapping`](https://github.com/gis-yang/DroneMapping) | Open-access drone mapping training course for coastal management and seagrass conservation |
 | [`ST-cokriging`](https://github.com/gis-yang/ST-cokriging) | Spatio-temporal cokriging algorithm for assimilating and downscaling remote sensing imagery |
 | [`Crime-prediction`](https://github.com/gis-yang/Crime-prediction) | Spatio-temporal crime prediction using historical crime data and nightlight-derived transitional zones |
