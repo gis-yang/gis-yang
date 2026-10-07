@@ -5,7 +5,7 @@ Director, GISTAR M.A. Program &nbsp;|&nbsp; Faculty Director, Center for Integra
 
 GIS · Remote Sensing · UAV/Drone Mapping · Spatio-temporal Modeling · Geospatial AI
 
-🔗 [UCSC faculty profile](https://campusdirectory.ucsc.edu/cd_detail?uid=byang85) &nbsp;|&nbsp; 🧪 [GeoFly Lab](https://geofly.io) &nbsp;|&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=DRadpUQAAAAJ&hl=en) &nbsp;|&nbsp; ✉️ hao2309@gmail.com
+🔗 [UCSC faculty profile](https://campusdirectory.ucsc.edu/cd_detail?uid=byang85) &nbsp;|&nbsp; 🧪 [GeoFly Lab](https://geofly.io) &nbsp;|&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=DRadpUQAAAAJ&hl=en) &nbsp;|&nbsp; ✉️ byang85@ucsc.edu
 
 ---
 
